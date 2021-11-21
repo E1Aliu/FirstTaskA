@@ -26,7 +26,7 @@ export const Data1 = [
     {
         icon:<FiGlobe/>,
         title: 'Language',
-        description:'How complex is the actuall domain name? '
+        description:'How complex is the actual domain name? '
     },
 
 
